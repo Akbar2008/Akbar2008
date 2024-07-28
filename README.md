@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align='center'>
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋,  I'm Akbar</h1>
 <h3 align="center">My name is Shaxzod and I'm a Frontend Engineer, from <img height="15" src="https://img.freeflagicons.com/thumb/round_icon/uzbekistan/uzbekistan_640.png" alt="no icon"/> Uzbekistan, Karshi <br> <br>B-date : 06.06.2008</h3>
@@ -76,3 +77,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbarhusanov&" alt="Akbarhusanov" /></p>
 # Akbarhusanov
+# Akbar2008
