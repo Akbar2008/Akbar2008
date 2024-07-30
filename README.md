@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <h3 align="left">Connect with me:</h3>
-<div> <a href="https://github.com/Akbarhusanov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/Akbar2008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/akbarchik0807" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:akbarhusanov478@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href='https://t.me/Akbr_coder'>
@@ -71,10 +71,10 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akbarhusanov&show_icons=true&locale=en&layout=compact" alt="Akbarhusanov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akbar2008&show_icons=true&locale=en&layout=compact" alt="Akbar2008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akbarhusanov&show_icons=true&locale=en" alt="Akbarhusanov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akbar2008&show_icons=true&locale=en" alt="Akbar2008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbarhusanov&" alt="Akbarhusanov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar2008&" alt="Akbar2008" /></p>
 # Akbarhusanov
 # Akbar2008
