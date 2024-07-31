@@ -38,13 +38,14 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Connect with me:</h3>
 <div> <a href="https://github.com/Akbar2008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/akbarchik0807" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:akbarhusanov478@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href='https://t.me/Akbr_coder'>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
+  <a href="https://www.linkedin.com/in/akbar-undefined-397814319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
