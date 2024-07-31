@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋,  I'm Akbar</h1>
 <h3 align="center">My name is Shaxzod and I'm a Frontend Engineer, from <img height="15" src="https://img.freeflagicons.com/thumb/round_icon/uzbekistan/uzbekistan_640.png" alt="no icon"/> Uzbekistan, Karshi <br> <br>B-date : 06.06.2008</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ##
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akbarhusanov&label=Profile%20views&color=0e75b6&style=flat" alt="Akbarhusanov" /> </p>
