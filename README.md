@@ -80,9 +80,9 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akbar2008&show_icons=true&locale=en" alt="Akbar2008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar2008&" alt="Akbar2008" /></p>
 
 <div id="stat" align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar2008&" alt="Akbar2008" /></p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akbar2008&theme=github_dark" alt="Akbar2008"/>
 </div>
 
