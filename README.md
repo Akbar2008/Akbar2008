@@ -84,8 +84,6 @@ You can click the Preview link to take a look at your changes.
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akbar2008&theme=github_dark" alt="Akbar2008"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akbar2008&theme=github_dark" alt="Akbar2008"/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akbar2008&theme=github_dark" alt="Akbar2008"/>
 </div>
 
 ---
