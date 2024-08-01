@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   
 ### :fire:My Stats : 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akbar2008&show_icons=true&locale=en&layout=compact" alt="Akbar2008" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar2008&theme=omni&hide_border=true&border_radius=15px"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akbar2008&show_icons=true&locale=en" alt="Akbar2008" /></p>
 
