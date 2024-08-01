@@ -77,7 +77,8 @@ You can click the Preview link to take a look at your changes.
   
 ### :fire:My Stats :
 <div style="display : flex; align-items : center">
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Akbar2008&show_icons=true&locale=en" alt="Akbar2008" /></p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar2008&theme=omni&hide_border=true&border_radius=15px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar2008&theme=omni&hide_border=true&border_radius=15px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Akbar2008&show_icons=true&locale=en" alt="Akbar2008" />
 </div>
 
 <div id="stat" align="center">
